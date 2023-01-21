@@ -1,6 +1,6 @@
 
 
-- Historia de  JavaScript  what is ECMAScript
+-1 Historia de  JavaScript  what is ECMAScript
     
      pelicula codigo enigma
     
@@ -24,3 +24,17 @@
             - 1996 JScript mMcrosoft
             - 1997 ES1
             - 2015 ES6 se vuelve un mejor lenguaje
+
+- 2- What is TC39
+    
+    
+    - Es un grupo de hacker , academicos , personas afines a la programacion que se encargan quie las actualizaciones se mantengan , las caracteristicas , funcionalidades
+    - ESNextt es un nombre que siempre  indica la proxima actualizacion   y consta de los siguientes pasos
+        
+         
+        
+        - **Stage0:** Strawperson (borrador, cualquier persona puede tener una idea para implementar en el estandar)
+        - **Stage1:** Proposal (propuesta formal)
+        - **Stage2:** Draft (borrador, como va a funcionar la implementacion el impacto entre otros)
+        - **Stage3:** Candidate (se elige el candidato, vamos a tener una propuesta que va ayudar a mejorar el lenguaje.)
+        - **Stage4:** Finished (va a ser desplegada en la version normalmente en JUNIO)
